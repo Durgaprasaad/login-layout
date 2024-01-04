@@ -1,0 +1,65 @@
+.container {
+    border: 1px solid;
+    width: 26%;
+    height: 550px;
+    margin-left: 35%;
+    margin-top: 100px;
+}
+
+.navbar{
+    border: 1px ;
+    background-color: white;
+    height: 40px;
+    display: flex;
+}
+
+.navbar>i{
+    font-size: 30px;
+    margin: 5px;
+    color: rgb(10, 194, 10);
+}
+.navbar>p{
+    /* display: inline-block; */
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 600;
+    padding-top: 5px;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+#icon{
+    margin-left: 00px
+}
+
+.image{
+    background-color: aquamarine;
+    height: 200px;
+    margin-top: -px;
+    background-image: url(./136-1366211_group-of-10-guys-login-user-icon-png.png);
+    background-size: cover;
+}
+.img>h3 {
+    font-family:sans-serif;
+}
+
+form {
+    margin-top: 30px;
+}
+
+input{
+    margin-left: 19px;
+    margin-top: -35px;
+}
+label>i{
+    font-size: 25px;
+    color: green;
+    margin-left: 15px;
+}
+
+form>i{
+    font-size: 25px;
+    color: green;
+    margin-left: -30px;
+    margin-top: 5px;
+}
